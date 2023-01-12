@@ -1,6 +1,0 @@
-multimedia.txt filter=lfs diff=lfs merge=lfs -text
-occurrence.txt filter=lfs diff=lfs merge=lfs -text
-full_florida_links.csv filter=lfs diff=lfs merge=lfs -text
-central_east_links.csv filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
